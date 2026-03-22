@@ -16,7 +16,7 @@ Repositório que organiza alguns dos meus projetos e atividades relacionadas ao 
 - [Projeto Mouse](https://github.com/enzocerneviva/cs-poo-projeto-mouse)  
   Introdução ao uso de classes, métodos e objetos em Java, além de conceitos de encapsulamento. A escolha do objeto para fazer essa atividade foi o mouse e demos seguimento com ele para o aprendizado  
   
-- [Fiap Ride - Checkpoint 01](https://github.com/enzocerneviva/cs-poo-projeto-mouse)  
+- [Fiap Ride](https://github.com/enzocerneviva/cs-poo-projeto-mouse)  
   Atividade avaliativa de revisão do código Java do projeto (Fiap Ride) para torna-lo mais seguro, eficiente e de fácil leitura para possíveis manutenções e implementações de novas versões.
 
 ---
