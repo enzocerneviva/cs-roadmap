@@ -21,7 +21,7 @@ Repositório que organiza alguns dos meus projetos e atividades relacionadas ao 
 
 ---
 
-## Solulções em Energia Renovável
+## Soluções em Energias Renováveis e Sustentáveis
 
 - [Análise de Dados de Consumidores de Energia](https://github.com/enzocerneviva/cs-sers-checkpoint-04)  
   Uma atividade avaliativa de análise de dados onde o objetivo era realizar um estudo do consumo de energia elétrica residencial usando conceitos de data science com python. 
